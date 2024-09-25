@@ -15,5 +15,4 @@
 [![](https://visitcount.itsvg.in/api?id=vladimir2412&icon=0&color=12)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/40c78bf0-4663-45d9-ae9a-650117ccb5df.svg)](https://wakatime.com/@40c78bf0-4663-45d9-ae9a-650117ccb5df)
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/volodymyr-osmin-987679225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="volodymyr osmin" height="30" width="40" /></a>
+
